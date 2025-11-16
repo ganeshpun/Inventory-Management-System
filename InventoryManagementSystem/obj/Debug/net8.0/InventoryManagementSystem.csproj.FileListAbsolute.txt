@@ -1,0 +1,1303 @@
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cs
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.sourcelink.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.staticwebassets.runtime.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Common.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagementSystem.props
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementSystem.props
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagementSystem.props
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\InventoryManagementSystem.styles.css
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\InventoryManagementSystem.bundle.scp.css
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\Inventor.EBF2E7CF.Up2Date
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
+C:\intern\Project\Personal\IMS\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\libman.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.staticwebassets.runtime.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Common.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cs
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.sourcelink.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagementSystem.props
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementSystem.props
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagementSystem.props
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\InventoryManagementSystem.styles.css
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\InventoryManagementSystem.bundle.scp.css
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\Inventor.EBF2E7CF.Up2Date
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+D:\Minor Project\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\libman.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.staticwebassets.runtime.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Common.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cs
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.sourcelink.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagementSystem.props
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementSystem.props
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagementSystem.props
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\InventoryManagementSystem.styles.css
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\InventoryManagementSystem.bundle.scp.css
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\Inventor.EBF2E7CF.Up2Date
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\intern\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\libman.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.staticwebassets.runtime.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Common.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cs
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.sourcelink.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagementSystem.props
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementSystem.props
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagementSystem.props
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\InventoryManagementSystem.styles.css
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\InventoryManagementSystem.bundle.scp.css
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\Inventor.EBF2E7CF.Up2Date
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\intern\ims\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\libman.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.staticwebassets.runtime.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.exe
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.deps.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.runtimeconfig.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\InventoryManagementSystem.pdb
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Common.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.AssemblyInfo.cs
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cache
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.RazorAssemblyInfo.cs
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.sourcelink.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.InventoryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryManagementSystem.props
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryManagementSystem.props
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryManagementSystem.props
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\InventoryManagementSystem.styles.css
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\InventoryManagementSystem.bundle.scp.css
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\Inventor.EBF2E7CF.Up2Date
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\refint\InventoryManagementSystem.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.pdb
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\InventoryManagementSystem.genruntimeconfig.cache
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0\ref\InventoryManagementSystem.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\MailKit.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\MimeKit.dll
+D:\Minor Project\IMS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0\System.Formats.Asn1.dll
