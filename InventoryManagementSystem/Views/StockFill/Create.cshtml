@@ -1,0 +1,146 @@
+﻿@model InventoryManagementSystem.Models.ViewModels.StockRelatedComponents
+
+@{
+//     ViewData["Title"] = "Create";
+}
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<style>
+    /* Custom styles for form */
+    .form-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .form-header {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #343a40; /* Dark color for header text */
+    }
+    .form-group label {
+        font-weight: bold;
+        color: #007bff; /* Blue color for labels */
+    }
+    .form-group input[type="text"],
+    .form-group select {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+        border: 1px solid #ced4da; /* Light gray border */
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+    .form-group input[type="submit"] {
+        background-color: #28a745; /* Green background for submit button */
+        color: white; /* White text color */
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 4px;
+    }
+    .form-group input[type="submit"]:hover {
+        background-color: #218838; /* Darker green on hover */
+    }
+    .back-link {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        color: #6c757d; /* Gray color for back link */
+    }
+    .back-link:hover {
+        color: #0056b3; /* Blue color on hover */
+        text-decoration: none;
+    }
+</style>
+
+<div class="form-container">
+    <h4 class="form-header">Purchase Form</h4>
+    
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+        
+        <div class="form-group">
+            <label asp-for="details.SupplierId" class="control-label"></label>
+            <select asp-for="details.SupplierId" id="supplier" asp-items="Model.SupplierList" class="form-control js-example-basic-single">
+                <option disabled selected>--Select Supplier--</option>
+            </select>
+            <span asp-validation-for="details.SupplierId" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="details.ProductId" class="control-label"></label>
+            <select asp-for="details.ProductId" id="products" asp-items="Model.ProductList" class="form-control js-example-basic-single">
+                <option disabled selected>--Select Product--</option>
+            </select>
+            <span asp-validation-for="details.ProductId" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="details.Count" class="control-label"></label>
+            <input asp-for="details.Count" class="form-control" />
+            <span asp-validation-for="details.Count" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="details.TotalCost" class="control-label"></label>
+            <input asp-for="details.TotalCost" class="form-control" />
+            <span asp-validation-for="details.TotalCost" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="details.Date" class="control-label"></label>
+            <input asp-for="details.Date" class="form-control" type="date" min="1900-01-01" max="2024-07-27"/>
+            <span asp-validation-for="details.Date" class="text-danger"></span>
+        </div>
+        
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary btn-block" />
+        </div>
+    </form>
+
+    <a asp-action="StockList" class="back-link">Back to List</a>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.js-example-basic-single').select2();
+        });
+        $('#supplier').change(function () {
+            var id = $(this).val();    
+            
+            $.ajax({
+                type: "GET",
+                url: "/stockFill/GetProductBySupplierID",
+                data: { 'supplierId': id }
+
+            }).done(function (data) {
+
+                
+                // Clear the existing options in the dropdown
+                $('#products').empty();
+                $('#products').append('<option disabled selected>--Select Product--</option>');
+               
+                // Add the new options
+                $.each(data, function (index, product) {                  
+
+                    $('#products').append($('<option>', {
+                        value: product.productId,
+                        text: product.prod_Name
+                    }));
+                });
+
+
+            });
+        });
+      
+    </script>
+ 
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

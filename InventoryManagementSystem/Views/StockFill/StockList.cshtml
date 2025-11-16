@@ -1,0 +1,174 @@
+﻿@model IEnumerable<InventoryManagementSystem.Models.StockModel>
+
+@{
+    ViewData["Title"] = "Purchase List";
+}
+
+@*<h1>StockList</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StockId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupplierId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Count)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalCost)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StockId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupplierId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Count)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalCost)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.StockId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.StockId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.StockId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+*@
+
+
+@*New StockList View*@
+<link href="~/css/ims/style.css" rel="stylesheet" />
+<div class="page-wrapper">
+    <div class="content container-fluid">
+
+        <div class="page-header">
+        </div>
+        @*
+        <div class="student-group-form">
+        <div class="row">
+        <div class="col-lg-3 col-md-6">
+        <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search by ID ...">
+        </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+        <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search by Name ...">
+        </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+        <div class="form-group">
+        <input type="text" class="form-control" placeholder="Search by Phone ...">
+        </div>
+        </div>
+        <div class="col-lg-2">
+        <div class="search-student-btn">
+        <button type="btn" class="btn btn-primary">Search</button>
+        </div>
+        </div>
+        </div>
+        </div> *@
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card card-table comman-shadow">
+                    <div class="card-body">
+
+                        <div class="page-header">
+                            <div class="row align-items-center">
+                                <div class="col" id="TableHeader">
+                                    <h3 class="page-title">Purchase List</h3>
+                                    <a asp-action="Create" class="btn btn-primary" id="createStockList">Create</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table border-0 star-stock table-hover table-center mb-0 datatable table-striped">
+                                <thead class="student-thread">
+                                    <tr>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.PurchaseId)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.SupplierName)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.ProductName)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Count)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.TotalCost)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Date)
+                                        </th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.PurchaseId)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SupplierName)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.ProductName)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Count)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.TotalCost)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Date)
+                                            </td>
+                                            <td>
+                                                @Html.ActionLink("Edit", "Edit", new { id = item.PurchaseId }) |
+                                                @Html.ActionLink("Details", "Details", new { id = item.PurchaseId }) |
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</div>
+

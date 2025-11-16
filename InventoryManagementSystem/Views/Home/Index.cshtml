@@ -1,0 +1,246 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to IMS</h1>
+
+</div>
+
+<div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .chart-container {
+            width: 80%;
+            max-width: 600px;
+            margin: 50px auto;
+        }
+    </style>
+    <div class="container mt-5">
+        <div class="row">
+            <!-- Card 1 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Supplier</h5>
+@*                         <p class="card-text">Count: <span id="supplierCount">10</span></p>
+ *@                        <a href="/Supplier/SupplierList" class="btn btn-primary">View Suppliers</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 2 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Product</h5>
+                       @*  <p class="card-text">Count: <span id="productCount">20</span></p> *@
+                        <a href="/StockFill/StockList" class="btn btn-primary">View Products</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 3 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Stock</h5>
+@*                         <p class="card-text">Count: <span id="stockCount">10</span></p>
+ *@                        <a href="/Product/ProductList" class="btn btn-primary">View Stock</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 4 -->
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Customer</h5>
+@*                         <p class="card-text">Count: <span id="customerCount">30</span></p>
+ *@                        <a href="/Customer/CustomerList" class="btn btn-primary">View Customers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="chart-container">
+                <canvas id="categoryChart"></canvas>
+            </div>
+        </div>
+        <div class="col-md-6">
+
+            <div class="chart-container">
+                <canvas id="inventoryLevelChart"></canvas>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="chart-container">
+                <canvas id="stockDistributionChart"></canvas>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="chart-container">
+                <canvas id="reorderPointChart"></canvas>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+
+    <!-- Custom JavaScript -->
+    <script>
+        $(document).ready(function () {
+            // Bar Chart: Product Categories
+            var categoryCtx = $('#categoryChart');
+            $.ajax({
+                type: "GET",
+                url: "/Product/ProductCountFororDashboard"
+
+            }).done(function (data) {
+                debugger;
+                // Extract labels and data from the response
+                var labels = [];
+                var counts = [];
+                data.forEach(function (item) {
+                    labels.push(item.prod_Name);
+                    counts.push(item.prod_Quantity);
+                });
+                var categoryChart = new Chart(categoryCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Number of Products',
+                            data: counts,
+                            // backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            // borderColor: 'rgba(75, 192, 192, 1)',
+                            backgroundColor: 'powderblue',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
+            });
+
+            // Line Chart: Inventory Levels Over Time
+            var inventoryLevelCtx = $('#inventoryLevelChart');
+            var inventoryLevelChart = new Chart(inventoryLevelCtx, {
+                type: 'line',
+                data: {
+                    labels: ['January', 'February', 'March', 'April', 'May', 'June'],
+                    datasets: [{
+                        label: 'Inventory Levels',
+                        data: [100, 120, 150, 130, 160, 140],
+                        backgroundColor: 'rgba(153, 102, 255, 0.2)',
+                        borderColor: 'rgba(153, 102, 255, 1)',
+                        borderWidth: 1,
+                        fill: true
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+
+            // Pie Chart: Stock Distribution
+            var stockDistributionCtx = $('#stockDistributionChart');
+            var stockDistributionChart = new Chart(stockDistributionCtx, {
+                type: 'pie',
+                data: {
+                    labels: ['Samsung', 'Apple', 'Huawei', 'Vivo', 'MI'],
+                    datasets: [{
+                        label: 'Stock Distribution',
+                        data: [300, 150, 200, 100, 250],
+                         backgroundColor: [
+                            '#E6E6DC',
+                            'rgba( 255, 253, 208)',
+                            'rgba(255, 207, 117)',
+                            '#97bfec',
+                            '#b9f5d0'
+                         ],
+                        // backgroundColor: [
+                        //     '#88ace0',
+                        //     'rgba( 255, 253, 208)',
+                        //     'rgba(255, 206, 86, 0.2)'
+                        //     'rgba( 51, 102, 153)'
+                        //     '#669966',
+                        // ],
+                        borderColor: [
+                            'rgba(255, 99, 132, 1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(255, 206, 86, 1)',
+                            'rgba(75, 192, 192, 1)',
+                            'rgba(153, 102, 255, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true
+                }
+            });
+
+            // Doughnut Chart: Reorder Points
+            var reorderPointCtx = $('#reorderPointChart');
+            var reorderPointChart = new Chart(reorderPointCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Samsung', 'Apple', 'Huawei', 'Vivo', 'MI'],
+                    datasets: [{
+                        label: 'Reorder Points',
+                        data: [50, 25, 40, 30, 20],
+                        backgroundColor: [
+                            'rgba(255, 159, 64, 0.2)',
+                            'rgba(255, 99, 132, 0.2)',
+                            'rgba(54, 162, 235, 0.2)',
+                            'rgba(75, 192, 192, 0.2)',
+                            'rgba(153, 102, 255, 0.2)'
+                        ],
+                        borderColor: [
+                            'rgba(255, 159, 64, 1)',
+                            'rgba(255, 99, 132, 1)',
+                            'rgba(54, 162, 235, 1)',
+                            'rgba(75, 192, 192, 1)',
+                            'rgba(153, 102, 255, 1)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true
+                }
+            });
+        });
+    </script>
+</div>

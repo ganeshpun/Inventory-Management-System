@@ -1,0 +1,299 @@
+﻿@model InventoryManagementSystem.Models.SalesDetails
+
+@{
+    ViewData["Title"] = "ProductsSoldAdd";
+}
+
+<h1>Sold Products</h1>
+@*
+<h4>SalesDetails</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ProductsSoldAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SalesDate" class="control-label"></label>
+                <input asp-for="SalesDate" class="form-control" />
+                <span asp-validation-for="SalesDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Customerid" class="control-label"></label>
+                <input asp-for="Customerid" class="form-control" />
+                <span asp-validation-for="Customerid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPrice" class="control-label"></label>
+                <input asp-for="TotalPrice" class="form-control" />
+                <span asp-validation-for="TotalPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discount" class="control-label"></label>
+                <input asp-for="Discount" class="form-control" />
+                <span asp-validation-for="Discount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+ *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <style>
+
+
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="customer-info">
+            <h2>Customer Information</h2>
+            <form id="customerForm">
+                <div class="form-group">
+                    <label for="date">Date:</label>
+                    <input type="date" id="date" name="date" min="1900-01-01" max="2024-07-27/>
+                    
+                </div>
+                <div class="form-group">
+                    <label for="customerName">Customer Name:</label>
+                    @*                     <input type="text" id="customerName" name="customerName">
+                    *@
+                    <input type="text" id="customerName" placeholder="Type customer name...">
+                    <ul class="search_list form-control">
+                    </ul>
+                </div>
+                <div class="form-group">
+                    <label for="mobile">Mobile No:</label>
+                    <input type="text" id="mobile" name="mobile">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email">
+                </div>
+            </form>
+        </div>
+        <div class="product-info">
+            <h2>Product Information</h2>
+            <form id="productForm">
+                <div class="form-group">
+                 @*    <label for="product">Particulars:</label>
+                    <input type="text" id="product" name="product"> *@
+                    <label for="product">Particulars:</label>
+                    @*                     <input type="text" id="customerName" name="customerName">
+                    *@
+                    <input type="text" id="product" placeholder="Type Product name...">
+                    <ul class="product_search_list form-control">
+                    </ul>
+                </div>
+                <div class="form-group">
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" id="quantity" name="quantity">
+                </div>
+                <div class="form-group">
+                    <label for="price">Rate (Rs.):</label>
+                    <input type="number" id="price" name="price">
+                </div>
+                <div class="form-group">
+                    <label for="totalPrice">Amount (Rs.):</label>
+                    <input type="number" id="totalPrice" name="totalPrice" readonly>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="button-container">
+        <button type="button" onclick="submitForm()">Submit</button>
+    </div>
+    <div id="dashboard" class="dashboard">
+        <h2>Customer Dashboard</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>S.N.</th>
+                    <th>Particulars</th>
+                    <th>Quantity</th>
+                    <th>Rate (Rs.)</th>
+                    <th>Amount (Rs.)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="dashboardBody">
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="4" class="text-right">Total (Rs.):</td>
+                    <td id="totalAmount"></td>
+                </tr>
+                <tr>
+                    <td colspan="4" class="text-right">VAT (%):</td>
+                    <td><input type="number" id="vat" name="vat" oninput="calculateGrandTotal()"></td>
+                </tr>
+                <tr>
+                    <td colspan="4" class="text-right">Discount (%):</td>
+                    <td><input type="number" id="discount" name="discount" oninput="calculateGrandTotal()"></td>
+                </tr>
+                <tr>
+                    <td colspan="4" class="text-right">Grand Total (Rs.):</td>
+                    <td id="grandTotal"></td>
+                </tr>
+            </tfoot>
+        </table>
+        <div class="button-container">
+            <button type="button" onclick="saveData()">Save</button>
+        </div>
+    </div>
+    <div id="popup" class="popup">
+        <h2>Submitted Information</h2>
+        <table id="popupTable">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Customer Name</th>
+                    <th>Mobile</th>
+                    <th>Email</th>ccc
+                    <th>Particulars</th>
+                    <th>Quantity</th>
+                    <th>Rate (Rs.)</th>
+                    <th>Amount (Rs.)</th>
+                </tr>
+            </thead>
+            <tbody id="popupContent">
+            </tbody>
+        </table>
+        <button type="button" onclick="closePopup()">Close</button>
+    </div>
+
+    @section Scripts {
+        <script src="/js/script.js"></script>
+        <script>
+            $(document).ready(function () {
+
+                $('#customerName').on('input', function () {
+                    var name = $(this).val();
+
+                    if (name.length > 0) {
+                        $.ajax({
+                            type: "GET",
+                            url: "/Sales/GetCustomerByName",
+                            data: { 'Customer_name': name }
+                        }).done(function (data) {
+                            displayCustomers(data);
+                        });
+                    } else {
+                        $('.search_list').empty();
+                    }
+                });
+            });
+
+            function displayCustomers(customers) {
+                let html = "";
+                if (customers.length > 0) {
+                    customers.forEach(function (customer) {
+                        html += `<li><a role="menuitem" tabindex="-1" href="javascript:void(0)" onclick="selectCustomer('${customer.customerName}', '${customer.phone}', '${customer.email}')">${customer.customerName}</a></li>`;
+                    });
+                } else {
+                    html += `<li><a tabindex="-1" href="#">No matching customers found</a></li>`;
+                }
+                $(".search_list").html(html).show();
+            }
+
+            function selectCustomer(name, mobile, email) {
+                $('#customerName').val(name);
+                $('#mobile').val(mobile);
+                $('#email').val(email);
+                $('.search_list').hide();
+                // You can add additional code here to fetch and display more details about the selected customer if needed
+            }
+
+       
+            $(document).ready(function () {
+
+                $('#product').on('input', function () {
+                    var name = $(this).val();
+
+                    if (name.length > 0) {
+                        $.ajax({
+                            type: "GET",
+                            url: "/Sales/GetProductByName",
+                            data: { 'productname': name }
+                        }).done(function (data) {
+                            debugger;
+                            displayProducts(data);
+                        });
+                    } else {
+                        $('.product_search_list').empty();
+                    }
+                });
+            });
+            $(document).ready(function () {
+
+
+                $('#quantity').on('input', function () {
+                    var quantityInput = document.getElementById('quantity');
+                    // Get the value of the max attribute
+                    var maxValue = Number(quantityInput.getAttribute('max'));
+                    debugger;
+                    quantityInput.addEventListener('input', function () {
+                        if (Number(quantityInput.value) > maxValue) {
+                            quantityInput.value = maxValue;
+                        }
+                    });
+                });
+               
+            });
+
+            function displayProducts(products) {
+                debugger;
+                let html1 = "";
+                if (products.length > 0) {
+                    console.log(products);
+                    products.forEach(function (product) {
+                        debugger;
+                        html1 += `<li><a role="menuitem" tabindex="-1" href="javascript:void(0)" onclick="selectProduct('${product.prod_Name}', '${product.prod_Quantity}')">${product.prod_Name}</a></li>`;
+                    });
+                } else {
+                    html1 += `<li><a tabindex="-1" href="#">No matching customers found</a></li>`;
+                }
+                $(".product_search_list").html(html1).show();
+            }
+
+            function selectProduct(name,quantity) {
+                debugger;
+                $('#product').val(name);
+                $('.product_search_list').hide();
+               var quantityInput = document.getElementById('quantity');
+
+                //Add the min attribute with a value of 4
+                quantityInput.setAttribute('max', quantity);
+                //You can add additional code here to fetch and display more details about the selected customer if needed
+                // Add event listener to enforce validation
+                // quantityInput.addEventListener('input', function () {
+                //     if (quantityInput.value > quantity) {
+                //         quantityInput.value = quantity;
+                //     }
+                // });
+            }
+
+        </script>
+
+    }
+
+
+</body>
+</html>
+
+
+

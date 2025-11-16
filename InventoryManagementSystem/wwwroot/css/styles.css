@@ -1,0 +1,259 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+.search_list {
+    width:18%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    display: none; /* Initially hidden */
+    position: absolute;
+    background: white;
+    z-index: 1000;
+}
+
+.search_list li {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.search_list li:hover {
+    background-color: #f0f0f0;
+}
+.product_search_list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    display: none; /* Initially hidden */
+    position: absolute;
+    background: white;
+    z-index: 1000;
+}
+
+.product_search_list li {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.product_search_list li:hover {
+    background-color: #f0f0f0;
+}
+.container {
+  
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
+    max-width: 1200px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.customer-info, .product-info {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+    background: #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #0056b3;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+input:focus {
+    border-color: #007BFF;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.button-container {
+    width: 100%;
+    margin: 24px;
+    margin-bottom:20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 10px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.dashboard {
+    width: 90%;
+    max-width: 1200px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #0056b3;
+}
+
+th {
+    color: #0056b3;
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+tfoot td {
+    border: none;
+    text-align: right;
+}
+
+tfoot input {
+    text-align: center;
+}
+
+.actions button {
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 0 5px;
+    transition: background-color 0.3s ease;
+}
+
+.actions button:hover {
+    background-color: #0056b3;
+}
+
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    z-index: 1000;
+}
+
+.popup h2 {
+    text-align: center;
+}
+
+.popup table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.popup table, .popup th, .popup td {
+    border: 1px solid #ddd;
+}
+
+.popup th, .popup td {
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.popup th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+    .popup button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+
+.popup button:hover {
+    background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .customer-info, .product-info {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .button-container button {
+        width: 90%;
+        max-width: 300px;
+        margin: 10px 0;
+    }
+}
+
+
+
