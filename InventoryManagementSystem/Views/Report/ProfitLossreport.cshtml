@@ -1,0 +1,85 @@
+﻿@model InventoryManagementSystem.Models.ViewModels.StockRelatedComponents
+
+@{
+    ViewData["Title"] = "ProfitLossreport";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Report </title>
+    <link rel="stylesheet" href="~/css/purchaseReport.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="form-section">
+            <form id="supplierForm">
+                <div class="form-group row">
+                    <div class="form-field">
+                        <label for="from">From</label>
+                        <input type="date" id="PLfromDate" name="from">
+                    </div>
+                    <div class="form-field">
+                        <label for="to">To</label>
+                        <input type="date" id="PLtoDate" name="to">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="details.ProductId" class="control-label"></label>
+                    <select asp-for="details.ProductId" id="PLproducts" asp-items="Model.ProductList" class="form-control js-example-basic-single">
+                        <option disabled value="0" selected>--Select Product--</option>
+                    </select>
+                    <span asp-validation-for="details.ProductId" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <button onclick="FetchPLList()" type="button">Submit</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="list-section">
+            <div class="list-header">
+                <h2>List</h2>
+                <button href="#" onclick="ResetForm()" class="back-button">Reset</button>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                       <th>Product</th>
+                        <th>Quantity</th>                      
+                        <th>Total Price</th>
+                    </tr>
+                </thead>
+                <tbody id="listPLBody">
+                    <!-- Rows will be dynamically added here -->
+                </tbody>
+                <tfoot>
+                                    
+                    <tr>
+                        <td colspan="3" class="text-right">Grand Total (Rs.):</td>
+                        <td id="grandPLTotal"></td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+       
+    </div>
+    @section Scripts {
+        <script src="~/js/purchaseReport.js"></script>
+
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+
+</body>
+</html>
+
+
+

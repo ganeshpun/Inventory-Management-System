@@ -1,0 +1,114 @@
+﻿@model InventoryManagementSystem.Models.ViewModels.PurchaseRepoDropDown
+
+@{
+    //ViewData["Title"] = "PurchaseReport";
+}
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+
+
+@* <div class="row">
+    <div class="col-md-4">
+        <form asp-action="PurchaseReport">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           
+            <div class="form-group">
+                <label asp-for="details.From" class="control-label"></label>
+                <input asp-for="details.From" class="form-control" type="date" min="1900-01-01" max="2024-12-31" />
+                <span asp-validation-for="details.From" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="details.To" class="control-label"></label>
+                <input asp-for="details.To" class="form-control" type="date" min="1900-01-01" max="2024-12-31" />
+                <span asp-validation-for="details.To" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="details.SupplierId" class="control-label"></label>
+                <select asp-for="details.SupplierId" asp-items="Model.SupplierList" class="form-control js-example-basic-single">
+                    <option disabled selected>--Select Supplier--</option>
+                </select>
+                <span asp-validation-for="details.SupplierId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div> *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Purchase Report</title>
+    <link rel="stylesheet" href="~/css/purchaseReport.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="form-section">
+            <form id="supplierForm">
+                <div class="form-group row">
+                    <div class="form-field">
+                        <label for="from">From</label>
+                        <input type="date" id="from" name="from">
+                    </div>
+                    <div class="form-field">
+                        <label for="to">To</label>
+                        <input type="date" min="1900-01-01" max="2024-12-31" id="to" name="to">
+                    </div>
+                </div>
+            
+                <div class="form-group">
+                    <label asp-for="details.SupplierId" class="control-label"></label>
+                    <select id="supplier" asp-for="details.SupplierId" asp-items="Model.SupplierList" class="form-control js-example-basic-single">
+                        <option disabled selected>--Select Supplier--</option>
+                    </select>
+                    <span asp-validation-for="details.SupplierId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <button onclick="FetchPurchaseList()" type="button">Submit</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="list-section">
+            <div class="list-header">
+                <h2>List</h2>
+                <button href="#" onclick="ResetForm()" class="back-button">Reset</button>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Supplier</th>
+                        <th>Product</th>
+                        <th>Quantity</th>
+                        <th>Cost</th>
+                    </tr>
+                </thead>
+                <tbody id="listBody">
+                    <!-- Rows will be dynamically added here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    @section Scripts {
+        <script src="~/js/purchaseReport.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+        <script>
+            $(document).ready(function () {
+            
+                $('.js-example-basic-single').select2();
+            });
+        </script>
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+    
+</body>
+</html>
+
+

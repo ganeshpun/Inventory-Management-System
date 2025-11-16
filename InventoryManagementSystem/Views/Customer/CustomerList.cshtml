@@ -1,0 +1,173 @@
+﻿@model IEnumerable<InventoryManagementSystem.Models.CustomerDetails>
+
+@{
+    ViewData["Title"] = "CustomerList";
+}
+
+@*<h1>CustomerList</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new {  id=item.CustomerID  }) |
+                    @Html.ActionLink("Details", "Details", new {  id=item.CustomerID  }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.CustomerID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+*@
+
+
+@*New CustomerList*@
+<link href="~/css/ims/style.css" rel="stylesheet" />
+<div class="main-wrapper">
+
+
+    <div class="page-wrapper">
+        <div class="content container-fluid">
+
+            <div class="page-header">
+            </div>
+            @*
+            <div class="student-group-form">
+            <div class="row">
+            <div class="col-lg-3 col-md-6">
+            <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search by ID ...">
+            </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+            <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search by Name ...">
+            </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+            <div class="form-group">
+            <input type="text" class="form-control" placeholder="Search by Phone ...">
+            </div>
+            </div>
+            <div class="col-lg-2">
+            <div class="search-student-btn">
+            <button type="btn" class="btn btn-primary">Search</button>
+            </div>
+            </div>
+            </div>
+            </div> *@
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card card-table comman-shadow">
+                        <div class="card-body">
+
+                            <div class="page-header">
+                                <div class="row align-items-center">
+                                    <div class="col" id="TableHeader">
+                                        <h3 class="page-title">Customer List</h3>
+                                        <a asp-action="Create" class="btn btn-primary" id="createCustomerList">Create</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="table-responsive">
+                                <table class="table border-0 star-supplier table-hover table-center mb-0 datatable table-striped">
+                                    <thead class="student-thread">
+                                        <tr>
+
+                                            <th>
+                                                @Html.DisplayNameFor(model => model.CustomerID)
+                                            </th>
+                                            <th>
+                                                @Html.DisplayNameFor(model => model.CustomerName)
+                                            </th>
+                                            <th>
+                                                @Html.DisplayNameFor(model => model.Address)
+                                            </th>
+                                            <th>
+                                                @Html.DisplayNameFor(model => model.Email)
+                                            </th>
+                                            <th>
+                                                @Html.DisplayNameFor(model => model.Phone)
+                                            </th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.CustomerID)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.CustomerName)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.Address)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.Email)
+                                                </td>
+                                                <td>
+                                                    @Html.DisplayFor(modelItem => item.Phone)
+                                                </td>
+                                                <td>
+                                                    @Html.ActionLink("Edit", "Edit", new { id = item.CustomerID }) |
+                                                    @Html.ActionLink("Details", "Details", new { id = item.CustomerID }) |
+                                                    @Html.ActionLink("Delete", "Delete", new { id = item.CustomerID })
+                                                </td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+

@@ -1,0 +1,95 @@
+﻿@model InventoryManagementSystem.Models.ProductRelatedComponents
+
+@{
+    //ViewData["Title"] = "Create";
+}
+
+<style>
+    .form-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-header {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #343a40; /* Dark color for header text */
+    }
+
+    .form-group label {
+        font-weight: bold;
+        color: #007bff; /* Blue color for labels */
+    }
+
+    .form-group input[type="text"] {
+        width: 100%;
+        padding: 8px;
+        margin-top: 5px;
+        margin-bottom: 15px;
+        border: 1px solid #ced4da; /* Light gray border */
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    .form-group input[type="submit"] {
+        background-color: #28a745; /* Green background for submit button */
+        color: white; /* White text color */
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 4px;
+    }
+
+        .form-group input[type="submit"]:hover {
+            background-color: #218838; /* Darker green on hover */
+        }
+
+    .back-link {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+        color: #6c757d; /* Gray color for back link */
+    }
+
+        .back-link:hover {
+            color: #0056b3; /* Blue color on hover */
+            text-decoration: none;
+        }
+</style>
+
+<div class="form-container">   
+        <h4 class="form-header">Product Details</h4>
+    <hr />
+
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+        <div class="form-group">
+            <label asp-for="details.SupplierId" class="control-label"></label>
+            <select asp-for="details.SupplierId" asp-items="Model.SupplierList" class="form-control js-example-basic-single">
+                <option disabled selected>--Select Supplier--</option>
+            </select>
+            <span asp-validation-for="details.SupplierId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="details.Prod_Name" class="control-label"></label>
+            <input asp-for="details.Prod_Name" class="form-control" />
+            <span asp-validation-for="details.Prod_Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary btn-block" />
+        </div>
+    </form>
+
+    <a asp-action="ProductList" class="back-link">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
